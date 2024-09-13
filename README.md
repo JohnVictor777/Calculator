@@ -19,12 +19,12 @@ Este projeto é uma simples calculadora de console desenvolvida em C# com o **Vi
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/JohnVictor777/calculadora-csharp.git
-
+   git clone https://github.com/JohnVictor777/Calculator.git
+   
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd calculadora-csharp
+    cd Calculator
 
 3. Compile o projeto:
    
